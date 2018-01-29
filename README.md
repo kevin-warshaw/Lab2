@@ -1,2 +1,3 @@
 # Lab2
-Lab2 for Kevin Warshaw
+
+My hello-world repo can be found here: https://github.com/kevin-warshaw/hello-world
